@@ -10,7 +10,7 @@ Artificial Intelligence: Machine Learning, Natural Language Processing (NLP), De
 
 Maths and Statistics: Linear Algebra, Probability and Statistics, Differential Calculus
 
-Cloud Skills: Azure
+Cloud Skills: Azure (AI Foundry, Azure Machine Learning)
 
 Reporting Tools: Power BI, Report Builder (Paginated Reports)
 
