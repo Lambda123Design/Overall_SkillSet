@@ -12,6 +12,8 @@ Maths and Statistics: Linear Algebra, Probability and Statistics, Differential C
 
 Cloud Skills: Azure (AI Foundry, Azure Machine Learning)
 
+GenAI: LangChain - Document Loaders, Text Splitters (Recursive Character Text Splitter, Character Text Splitter, HTML Header Text Splitter, Recursive JSON Splitter), Embeddings (OpenAI Embedding, Ollama Embedding, HuggingFace Embeeding), VectorStore Databases (FAISS (Facebook AI Similarity Search), ChromaDB), Retrievers, Chains, LangSmith, OpenAI, Ollama
+
 Reporting Tools: Power BI, Report Builder (Paginated Reports)
 
 Integrated Development Environment (IDE): VS Code, Anaconda
