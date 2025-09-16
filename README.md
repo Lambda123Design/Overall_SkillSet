@@ -1,5 +1,7 @@
 # Overall_SkillSet
 
+**Rome was not build in a day** and **"Knowledge is the Ornament of Everyone"**
+
 End-to-End Analytics Solution: Microsoft Fabric
 
 Programming Language: Python
@@ -10,7 +12,7 @@ Artificial Intelligence: Machine Learning, Natural Language Processing (NLP), De
 
 Maths and Statistics: Linear Algebra, Probability and Statistics, Differential Calculus
 
-Cloud Skills: Azure (AI Foundry, Azure Machine Learning)
+Cloud Skills: Azure (AI Foundry, Azure Machine Learning, Logic Apps, API Management, Dataverse)
 
 GenAI: LangChain - Document Loaders, Text Splitters (Recursive Character Text Splitter, Character Text Splitter, HTML Header Text Splitter, Recursive JSON Splitter), Embeddings (OpenAI Embedding, Ollama Embedding, HuggingFace Embeeding), VectorStore Databases (FAISS (Facebook AI Similarity Search), ChromaDB), Retrievers, Chains, LangSmith, OpenAI, Ollama
 
