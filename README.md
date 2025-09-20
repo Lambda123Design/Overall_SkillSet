@@ -14,7 +14,7 @@ Maths and Statistics: Linear Algebra, Probability and Statistics, Differential C
 
 Cloud Skills: Azure (AI Foundry, Azure Machine Learning, Logic Apps, API Management, Dataverse)
 
-GenAI: LangChain - Document Loaders, Text Splitters (Recursive Character Text Splitter, Character Text Splitter, HTML Header Text Splitter, Recursive JSON Splitter), Embeddings (OpenAI Embedding, Ollama Embedding, HuggingFace Embeeding), VectorStore Databases (FAISS (Facebook AI Similarity Search), ChromaDB), Retrievers, Chains, LangSmith, OpenAI, Ollama, Langchain - Message History, Prompt Termplate And Message Chat History Using Langchain, Managing the Chat Conversation History Using Langchain; RAG using VectorStore And Retriever
+GenAI: LangChain - Document Loaders, Text Splitters (Recursive Character Text Splitter, Character Text Splitter, HTML Header Text Splitter, Recursive JSON Splitter), Embeddings (OpenAI Embedding, Ollama Embedding, HuggingFace Embeeding), VectorStore Databases (FAISS (Facebook AI Similarity Search), ChromaDB), Retrievers, Chains, LangSmith, OpenAI, Ollama, Langchain - Langchain Expression Language (LCEL), Message History, Prompt Termplate And Message Chat History Using Langchain, Managing the Chat Conversation History Using Langchain; RAG using VectorStore And Retriever; Conversational Q&A Chatbot With Message History
 
 Agentic AI: LangGraph, Model Context Protocol (MCP - Host, Client, Server), Pydantic
 
